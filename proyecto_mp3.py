@@ -21,6 +21,11 @@ mueve de derecha a izquierda el sonido ira disminuyendo. Tambien, dependiendo
 de la intensidad del sonido, las imagenes que lo representan ira cambiando.
 '''
 
+#Tener en cuenta que se debe de tener descargada la carpeta de las
+#imagenes (tener cuidado con la ubicación de la misma).
+#Así también, la dirección de las canciones descargadas.Cada usuario debe 
+#cambiar el nombre de la carpeta donde se encuentren si fuera necesario.
+
 # Se insertan las bibliotecas a usar.
 
 from tkinter import *
